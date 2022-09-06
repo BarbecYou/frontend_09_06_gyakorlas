@@ -1,1 +1,1 @@
-# frontend_09_06_gyakorlas
+Füredi Dániel
